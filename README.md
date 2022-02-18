@@ -1,2 +1,2 @@
-# gb-sans
-Retro gaming styled font
+# GB Sans
+A cool retro-gaming styled font!
