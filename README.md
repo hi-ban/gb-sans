@@ -1,4 +1,4 @@
 # GB Sans
 A cool retro-gaming styled font!
 
-[Sample](./Sample.png)
+[Sample](./Sample.png?raw=true)
